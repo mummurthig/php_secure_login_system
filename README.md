@@ -33,5 +33,5 @@ $password = $_POST['password'].$salt;
 $password = sha1($password);
 ```
 
-### Login Page
-<img src="https://user-images.githubusercontent.com/60460387/87408809-a54fb800-c5e1-11ea-85ed-a7e77887d870.JPG" with="100" >
+
+
