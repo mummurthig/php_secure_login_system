@@ -33,5 +33,5 @@ $password = $_POST['password'].$salt;
 $password = sha1($password);
 ```
 
-### sha1 encryption with salt
+## sha1 encryption with salt
 <img src="https://user-images.githubusercontent.com/60460387/87409189-3f176500-c5e2-11ea-9a88-70aad2ae3c81.JPG">
